@@ -1,2 +1,3 @@
 # Crimes in Communties
-Given statistics about a region in the U.S, predict the number of crime incidences per 100,000 in a given community.
+
+In this notebook, we used the “Communities and Crime” dataset to train a neural network for predicting the incidence of individual sub-categories of crimes based on a large number of plausibly-correlated independent variables.
