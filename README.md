@@ -13,7 +13,9 @@ The notebook is generally structured as the following:
 
 In totality, we show the viability of using a Multivariate Principle Component Regression model in order to utilize the relationship of our target variables during the weigh updates in our training procedure. The utilization of multiple signals is especially pronounced when looking at crimes with lower number of incidences.
 
-# Tableau Notebook Summarizing and Visualizing Dataset Statistics and Varialbe Relationships
+# Tableau Visualization
+
+The following is a Tableau Dashboard summarizing and visualizing statistics from the dataset as well as varialbe relationships:
 
 https://public.tableau.com/app/profile/nirbhik.datta/viz/CrimesInCommunities/Dashboard1
 
