@@ -7,7 +7,7 @@ The notebook is generally structured as the following:
 * High level exploratory data analysis through data summaries and visualizations (seaborn, pandas)
 * Data imputation for missing values using the MICE algorithm (Multiple Imputation by Chained Equations)
 * Further feature and target transformations (PowerTransformer, PCA)
-* Training and evaluation of an MLP implemented using Keras
+* Training and evaluation of our model implemented using Keras
 * Comparison with Linear Regression models trained on individual crime types
 
 
